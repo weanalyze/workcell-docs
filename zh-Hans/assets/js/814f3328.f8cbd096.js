@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkworkcell_doc=self.webpackChunkworkcell_doc||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/workcell-docs/zh-Hans/blog/welcome"}]}')}}]);
