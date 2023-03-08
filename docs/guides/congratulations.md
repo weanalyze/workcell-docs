@@ -8,7 +8,7 @@ You have just learned the **basics of Workcell** and made some changes to the **
 
 Workcell has **much more to offer**!
 
-Have **3 more minutes**? Take a look at **[tutorials](../tutorials/workcell-ui-showcase)** and **[best-of-workcell](github.com/weanalyze/best-of-workcell)**.
+Have **3 more minutes**? Take a look at **[tutorials](../tutorials/workcell-ui-showcase)** and **[best-of-workcell](https://github.com/weanalyze/best-of-workcell)**.
 
 Anything **unclear** or **buggy** in this tutorial? **[Please report it!](https://github.com/weanalyze/workcell/discussions/1)**
 
