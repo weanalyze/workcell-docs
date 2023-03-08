@@ -19,7 +19,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'weanalyze', // Usually your GitHub org/user name.
-  projectName: 'workcell', // Usually your repo name.
+  projectName: 'workcell-docs', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Default value is 'gh-pages'.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
